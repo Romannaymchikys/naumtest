@@ -1,0 +1,4 @@
+﻿  MyVector.cpp
+c:\users\roman\desktop\labnome 3\labword 3\myvector.h(51): warning C4800: 'std::size_t': forcing value to bool 'true' or 'false' (performance warning)
+  labword 3.vcxproj -> C:\Users\Roman\Desktop\labnome 3\Debug\labword 3.exe
+  labword 3.vcxproj -> C:\Users\Roman\Desktop\labnome 3\Debug\labword 3.pdb (Full PDB)
