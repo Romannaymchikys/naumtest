@@ -39,12 +39,12 @@ public:
 	MyVector& operator=(MyVector&& obj); // копирующий оператор присваивание
 	int* operator[](size_t);
 
-	bool operator> (const MyVector newDigit);
-	bool operator< (const MyVector newDigit);
-	bool operator<=(const MyVector newDigit);
-	bool operator>=(const MyVector newDigit);
-	bool operator==(const MyVector newDigit);
-	bool operator!=(const MyVector newDigit);
+	bool operator> (const MyVector&) const;
+	bool operator< (const MyVector&) const;
+	bool operator<=(const MyVector&) const;
+	bool operator>=(const MyVector&) const;
+	bool operator==(const MyVector&) const;
+	bool operator!=(const MyVector&) const;
 
 	MyVector operator+(const MyVector newDigit);
 	

@@ -36,6 +36,7 @@ int* MyVector::push_back (int element)
 		arr[size++] = element;
 		return arr;
 	}
+
 }
 int MyVector::pop_back()
 {
@@ -49,64 +50,64 @@ int& MyVector::at(size_t index)
 	return arr[index];
 }
 
-MyVector& MyVector::operator=(const MyVector& obj) {
-	if (this == &obj) {
+MyVector& MyVector::operator=(const MyVector& newDigit) {
+	if (this == &newDigit) {
 		return *this;
 	}
-	size = obj.size;
+	size = newDigit.size;
 	delete[] arr;
 	arr = new int[size];
-	for (size_t i = 0; i < size; ++i) { arr[i] = obj.arr[i]; }
+	for (size_t i = 0; i < size; ++i) { arr[i] = newDigit.arr[i]; }
 	return *this;
 }
-MyVector& MyVector::operator=(MyVector&& obj) {
-	if (this == &obj) {
+MyVector& MyVector::operator=(MyVector&& newDigit) {//отпровляем по ссылке что бы можнобыло a = b = c = d
+	if (this == &newDigit) {
 		return *this;
 	}
-	size = obj.size;
+	size = newDigit.size;
 	delete[] arr;
-	arr = obj.arr;
-	obj.size = 0;
-	obj.arr = nullptr;
+	arr = newDigit.arr;
+	newDigit.size = 0;
+	newDigit.arr = nullptr;
 	return *this;
 }
 int* MyVector::operator[](size_t index) {
 	return arr + index;
 }
 
-bool MyVector::operator>(const MyVector newDigit) {
+bool MyVector::operator>(const MyVector& newDigit) const {
 	for (size_t i(0); i < size; ++i){
-		if (!(arr[i] > newDigit.arr[i])) { return false; }
+		if (arr[i] < newDigit.arr[i]) { return false; }
 	}
 	return true;
 }
-bool MyVector::operator<(const MyVector newDigit){
+bool MyVector::operator<(const MyVector& newDigit) const {
 	for (size_t i(0); i < size; ++i){
-		if (!(arr[i] < newDigit.arr[i])) { return false; }
+		if (!(*this < newDigit)) { return false; }
 	}
 	return true;
 }
-bool MyVector::operator<=(const MyVector newDigit){
+bool MyVector::operator<=(const MyVector& newDigit) const {
 	for (size_t i(0); i < size; ++i) {
 		if (!(arr[i] <= newDigit.arr[i])) { return false; }
 	}
 	return true;
 }
-bool MyVector::operator>=(const MyVector newDigit){
+bool MyVector::operator>=(const MyVector& newDigit) const {
 	for (size_t i(0); i < size; ++i) {
-		if (!(arr[i] >= newDigit.arr[i])) { return false; }
+		if (!(*this < newDigit)) { return false; }
 	}
 	return true;
 }
-bool MyVector::operator==(const MyVector newDigit){
+bool MyVector::operator==(const MyVector& newDigit) const {
 	for (size_t i(0); i < size; ++i) {
 		if (arr[i] != newDigit.arr[i]) { return false; }
 	}
 	return true;
 }
-bool MyVector::operator!=(const MyVector newDigit){
+bool MyVector::operator!=(const MyVector& newDigit) const {
 	for (size_t i(0); i < size; ++i) {
-		if (arr[i] == newDigit.arr[i]) { return false; }
+		if (!(*this != newDigit))  { return false; }
 	}
 	return true;
 }
@@ -114,7 +115,7 @@ bool MyVector::operator!=(const MyVector newDigit){
 MyVector MyVector::operator+(const MyVector newDigit) {
 	MyVector newTmpMyVector;
 	newTmpMyVector.arr= new int[size + newDigit.size];
-	for (size_t i = 0; i < size + newDigit.size; ++i) {
+	for (size_t i(0); i < size + newDigit.size; ++i) {
 		if (i < size) { newTmpMyVector.arr[i] = arr[i]; }
 		else { newTmpMyVector.arr[i] = newDigit.arr[i]; }
 	}

@@ -15,7 +15,6 @@ std::string Subscriber::getAllSubscriber() const {
 std::string Subscriber::getInfo() const { 
 	return surname + ' ' + name + ' ' + patronymic + ' ' + mobilPhone + ' ' + homePhone; 
 }
-
 void Subscriber::setName(const std::string newName) { this->name = newName; }
 void Subscriber::setSurname(const std::string newSurn) { (*this).surname = newSurn; }
 void Subscriber::setPatronymic(const std::string newPat) { patronymic = newPat; }
