@@ -1,0 +1,6 @@
+﻿  PrettyPrint.cpp
+c:\users\aleks\onedrive\документы\visual studio 2017\projects\classcontinuation\classcontinuation\prettyprint.cpp(14): warning C4018: <=: несоответствие типов со знаком и без знака
+  ClassContinuation.cpp
+  Создание кода...
+  ClassContinuation.vcxproj -> C:\Users\aleks\onedrive\документы\visual studio 2017\Projects\ClassContinuation\Debug\ClassContinuation.exe
+  ClassContinuation.vcxproj -> C:\Users\aleks\onedrive\документы\visual studio 2017\Projects\ClassContinuation\Debug\ClassContinuation.pdb (Partial PDB)
