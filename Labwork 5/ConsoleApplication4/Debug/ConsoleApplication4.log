@@ -1,0 +1,28 @@
+﻿  Source.cpp
+c:\users\roman\desktop\consoleapplication4\consoleapplication4\source.cpp(44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\roman\desktop\consoleapplication4\consoleapplication4\source.cpp(46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\roman\desktop\consoleapplication4\consoleapplication4\stack.h(65): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\roman\desktop\consoleapplication4\consoleapplication4\stack.h(59): note: while compiling class template member function 'Stack<int> &Stack<int>::operator =(const Stack<int> &)'
+  c:\users\roman\desktop\consoleapplication4\consoleapplication4\source.cpp(36): note: see reference to function template instantiation 'Stack<int> &Stack<int>::operator =(const Stack<int> &)' being compiled
+  c:\users\roman\desktop\consoleapplication4\consoleapplication4\source.cpp(22): note: see reference to class template instantiation 'Stack<int>' being compiled
+c:\users\roman\desktop\consoleapplication4\consoleapplication4\stack.h(42): warning C4018: '<': signed/unsigned mismatch
+  c:\users\roman\desktop\consoleapplication4\consoleapplication4\stack.h(41): note: while compiling class template member function 'void Stack<int>::push(const T &)'
+          with
+          [
+              T=int
+          ]
+  c:\users\roman\desktop\consoleapplication4\consoleapplication4\source.cpp(24): note: see reference to function template instantiation 'void Stack<int>::push(const T &)' being compiled
+          with
+          [
+              T=int
+          ]
+c:\users\roman\desktop\consoleapplication4\consoleapplication4\stack.h(38): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  c:\users\roman\desktop\consoleapplication4\consoleapplication4\stack.h(38): note: while compiling class template member function 'bool Stack<int>::empty(void)'
+  c:\users\roman\desktop\consoleapplication4\consoleapplication4\source.cpp(23): note: see reference to function template instantiation 'bool Stack<int>::empty(void)' being compiled
+c:\users\roman\desktop\consoleapplication4\consoleapplication4\queue.h(106): warning C4800: 'const std::size_t': forcing value to bool 'true' or 'false' (performance warning)
+  c:\users\roman\desktop\consoleapplication4\consoleapplication4\queue.h(105): note: while compiling class template member function 'bool Queue<int>::empty(void) const'
+  c:\users\roman\desktop\consoleapplication4\consoleapplication4\source.cpp(10): note: see reference to function template instantiation 'bool Queue<int>::empty(void) const' being compiled
+  c:\users\roman\desktop\consoleapplication4\consoleapplication4\source.cpp(9): note: see reference to class template instantiation 'Queue<int>' being compiled
+c:\users\roman\desktop\consoleapplication4\consoleapplication4\header.h(52): warning C4715: 'find<int>': not all control paths return a value
+  ConsoleApplication4.vcxproj -> C:\Users\Roman\Desktop\ConsoleApplication4\Debug\ConsoleApplication4.exe
+  ConsoleApplication4.vcxproj -> C:\Users\Roman\Desktop\ConsoleApplication4\Debug\ConsoleApplication4.pdb (Full PDB)
