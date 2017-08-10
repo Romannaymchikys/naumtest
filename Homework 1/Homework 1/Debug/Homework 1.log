@@ -1,0 +1,7 @@
+﻿  FrequencyDictionary.cpp
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\homework 1\homework 1\frequencydictionary.cpp(194): warning C4018: '>': signed/unsigned mismatch
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\homework 1\homework 1\frequencydictionary.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\homework 1\homework 1\frequencydictionary.cpp(261): warning C4018: '<': signed/unsigned mismatch
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\homework 1\homework 1\frequencydictionary.cpp(306): warning C4018: '<': signed/unsigned mismatch
+  Homework 1.vcxproj -> C:\Users\Roman\Documents\GitHub\StudentHomeworks\Наумчик Р.М\Homework 1\Debug\Homework 1.exe
+  Homework 1.vcxproj -> C:\Users\Roman\Documents\GitHub\StudentHomeworks\Наумчик Р.М\Homework 1\Debug\Homework 1.pdb (Partial PDB)
