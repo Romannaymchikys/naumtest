@@ -1,0 +1,222 @@
+﻿'Project6.exe' (Win32): Loaded 'C:\Users\Roman\Documents\Visual Studio 2015\Projects\Project6\Debug\Project6.exe'. Symbols loaded.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\lpk.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\usp10.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-timezone-l1-1-0.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-file-l2-1-0.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-localization-l1-2-0.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-processthreads-l1-1-1.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\api-ms-win-core-file-l1-2-0.dll'. Cannot find or open the PDB file.
+Error: Could not find 'C:\Users\Roman\Documents\Visual Studio 2015\Projects\Project6\Project6\Debug\Source.obj'. Project6.exe was built with /DEBUG:FASTLINK which requires object files for debugging.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+'Project6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cmd.exe'. Cannot find or open the PDB file.
+'Project6.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\cmd.exe'
+The program '[8068] Project6.exe' has exited with code 0 (0x0).
