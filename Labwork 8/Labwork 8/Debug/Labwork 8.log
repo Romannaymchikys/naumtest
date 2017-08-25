@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\labwork 8\labwork 8\parrot.h(6): warning C4584: 'parrot': base-class 'Pet' is already a base-class of 'bird'
+  c:\users\roman\documents\github\studenthomeworks\наумчик р.м\labwork 8\labwork 8\pet.h(5): note: see declaration of 'Pet'
+  c:\users\roman\documents\github\studenthomeworks\наумчик р.м\labwork 8\labwork 8\bird.h(3): note: see declaration of 'bird'
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\labwork 8\labwork 8\triangle.h(26): warning C4244: '=': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\labwork 8\labwork 8\triangle.h(31): warning C4244: '=': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\labwork 8\labwork 8\triangle.h(48): warning C4244: '=': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\labwork 8\labwork 8\triangle.h(51): warning C4244: '=': conversion from 'double' to 'std::size_t', possible loss of data
+  Labwork 8.vcxproj -> C:\Users\Roman\Documents\GitHub\StudentHomeworks\Наумчик Р.М\Labwork 8\Debug\Labwork 8.exe
+  Labwork 8.vcxproj -> C:\Users\Roman\Documents\GitHub\StudentHomeworks\Наумчик Р.М\Labwork 8\Debug\Labwork 8.pdb (Partial PDB)
