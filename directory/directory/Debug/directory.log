@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\directory\directory\main.cpp(39): warning C4715: '_exitornotexit': not all control paths return a value
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\directory\directory\main.cpp(313): warning C4715: '_Choice_of_actions': not all control paths return a value
+  directory.vcxproj -> C:\Users\Roman\Documents\GitHub\StudentHomeworks\Наумчик Р.М\directory\Debug\directory.exe
+  directory.vcxproj -> C:\Users\Roman\Documents\GitHub\StudentHomeworks\Наумчик Р.М\directory\Debug\directory.pdb (Partial PDB)
