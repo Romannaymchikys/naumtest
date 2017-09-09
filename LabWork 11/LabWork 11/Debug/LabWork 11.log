@@ -1,0 +1,9 @@
+﻿  List_Test.cpp
+  Generating Code...
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\labwork 11\labwork 11\forwardlist.h(121): warning C4715: 'ForwardList<int>::insert': not all control paths return a value
+c:\users\roman\documents\github\studenthomeworks\наумчик р.м\labwork 11\labwork 11\forwardlist.h(203): warning C4715: 'ForwardList<int>::erase': not all control paths return a value
+  Compiling...
+  main.cpp
+  Generating Code...
+  LabWork 11.vcxproj -> C:\Users\Roman\Documents\GitHub\StudentHomeworks\Наумчик Р.М\LabWork 11\Debug\LabWork 11.exe
+  LabWork 11.vcxproj -> C:\Users\Roman\Documents\GitHub\StudentHomeworks\Наумчик Р.М\LabWork 11\Debug\LabWork 11.pdb (Partial PDB)
