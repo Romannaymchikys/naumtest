@@ -1,0 +1,6 @@
+﻿  main.cpp
+f:\win2каректор\win2\main.cpp(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  f:\win2каректор\win2\main.cpp(3): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+f:\win2каректор\win2\main.cpp(115): warning C4800: 'unsigned int': forcing value to bool 'true' or 'false' (performance warning)
+f:\win2каректор\win2\main.cpp(56): warning C4101: 'hST': unreferenced local variable
+  Win2.vcxproj -> F:\Win2каректор\Debug\Win2.exe
