@@ -373,7 +373,8 @@ void MationRIGHTFigures(struct AllFigures& allFigures,
 	        case(2):allFigures.thing.MOTION_right_thing_Headsup(basicData, predicate,
 				                                                basicFunct, figure);
 	               break;
-	       case(3):allFigures.thing.MOTION_right_thing_Lie_left(basicData, predicate, basicFunct, figure);
+	       case(3):allFigures.thing.MOTION_right_thing_Lie_left(basicData, predicate,
+			                                                    basicFunct, figure);
 		          break;
 	      }
 	}

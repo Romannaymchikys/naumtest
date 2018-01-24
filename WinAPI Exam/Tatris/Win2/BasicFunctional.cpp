@@ -65,7 +65,7 @@ for (size_t clean = i - j, Mobil = clean + 16; clean < Mobil; clean++) {
 		for (size_t _len = Mobil - 1; _len >= i - j; _len--) // проход вверх
 			for (size_t h = _len; h > 170; h -= CHEK_AUT) {
 				basicData.setVecLogic(h, basicData.getVecLogic(h - CHEK_AUT));
-				if (basicData.getVecLogic(h) == ' ') {
+				if (basicData.getVecLogic(h) == EMPTY) {
 					imageChange(basicData.getVecBasic(h),
 								basicData.gethBmEmpty());
 					}
@@ -83,7 +83,7 @@ void BasicFunctional::Sweeping(BasicData& basicData) {// стерание пол
 		size_t Counter = 0;
 		for (size_t j = 0; j <= 16; j++) {// проверка идет справа налево
 			wchar_t d = basicData.getVecLogic(688);
-			if (basicData.getVecLogic(i - j) == '@') {
+			if (basicData.getVecLogic(i - j) == FIGURE) {
 				Counter++;
 				if (Counter == 16) { // слева направо
 					SweepingSupport(basicData, i, j);
