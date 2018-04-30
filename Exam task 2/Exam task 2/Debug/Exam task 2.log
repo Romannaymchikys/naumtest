@@ -1,4 +1,6 @@
 ﻿  sensible.cpp
-c:\users\roman\documents\github\studenthomeworks\наумчик р.м\exam task 2\exam task 2\sensible.cpp(145): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Exam task 2.vcxproj -> C:\Users\Roman\Documents\GitHub\StudentHomeworks\Наумчик Р.М\Exam task 2\Debug\Exam task 2.exe
-  Exam task 2.vcxproj -> C:\Users\Roman\Documents\GitHub\StudentHomeworks\Наумчик Р.М\Exam task 2\Debug\Exam task 2.pdb (Partial PDB)
+c:\users\roman\documents\github\naumtest\exam task 2\exam task 2\sensible.cpp(146): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  Exam task 2.vcxproj -> C:\Users\Roman\Documents\GitHub\naumtest\Exam task 2\Debug\Exam task 2.exe
+  Exam task 2.vcxproj -> C:\Users\Roman\Documents\GitHub\naumtest\Exam task 2\Debug\Exam task 2.pdb (Partial PDB)

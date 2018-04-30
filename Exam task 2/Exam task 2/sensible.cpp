@@ -5,6 +5,7 @@
 #define NUM_RIGHT_RANGE 224
 #define CHAR_POINT      '.'
 #define EMPTY_STR       " " 
+// приводим к типу для сровнения
 #define WORD_WITH_CAPITAL_LETTER(VALUE)(unsigned char)VALUE[0] < NUM_RIGHT_RANGE &&\
                                        (unsigned char)VALUE[0] > NUM_LEFT_RANGE    \
 
@@ -70,7 +71,7 @@ void sensible::dataCreationProcessing
 (std::vector<std::string>& writeFileVec) {
 	int selector;
 	std::cout << "0 - выход в меню " << "(exit to the menu) \n"
-		      << "1 - запись в фаил" << " (write to file)   \n";
+		      << "1 - запись в фаил" << "(write to file)   \n";
 	std::cin >> selector;
 	if (selector) {
 		// имя файла в который нужно записать
